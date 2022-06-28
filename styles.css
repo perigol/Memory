@@ -1,0 +1,84 @@
+body{
+    background-image: url("../MemoryGamesPro/Icons/digital-de-varios-colores-papel-pintado-2560x1080_14.jpg");
+    background-size: 1357px 684px;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    color: white;
+    
+    
+}
+main{
+   width: 730px;
+   margin: 10px auto 50px;
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    opacity: 0.8;
+    
+}
+.section1{
+   
+    padding: 0 10px 10px 10px;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.changebut{
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 40px;
+    color: rgba(0,255,119,1);
+    font-weight: bold;
+    
+    
+}
+button:hover{
+    
+    cursor: pointer;
+}
+.section2{
+    text-align: center;
+    
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 0px;
+    width: 264px;
+    height: 300px;
+    padding: 1px 14px;
+    
+}
+.statistic{
+    border: 1px solid white;
+    height: 105px;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+.change-button {
+    height: 80px;
+    width: 180px;
+    background-color: #5f3ef3;
+    border-radius: 5px;
+}
+   
+a {
+    font-family: 'Alfa Slab One';
+    font-size: 27px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+footer{
+    text-align: center;
+}
+img{
+    width: 80%;
+}
